@@ -8,6 +8,7 @@ Stuff for preparing for technical interviews
 - `dyck.py`
 - `palindrome.py`
 - `quicksort.py`
+- `tcpip.jpg`
 
 # References and useful links
 
