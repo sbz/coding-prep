@@ -22,6 +22,10 @@ Stuff for preparing for technical interviews
     * **Introduction to Algorithms** by Thomas H. Cormen and al. https://mitpress.mit.edu/books/introduction-algorithms
     * **The Algorithm Design Manual** by Steven S. Skiena http://www3.cs.stonybrook.edu/~skiena/
     * **Cracking The Code Interview** by Gale Laakmann McDowell http://www.crackingthecodinginterview.com/
+* Visual
+    * **Data Structures Visualizations** by David Galles https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+    * **VisuAlgo** by Steven Halim https://visualgo.net
+    * **Sorting Algorithms** by Carlo Zapponi https://www.sorting.at
 
 ## Systems
 
