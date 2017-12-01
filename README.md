@@ -29,6 +29,7 @@ Stuff for preparing for technical interviews
 
 ## Systems
 
+* Introduction to Architecting Systems for Scale https://lethain.com/introduction-to-architecting-systems-for-scale
 * System Design Primer https://github.com/donnemartin/system-design-primer
 * Books
     * **Modern Operating Systems** by Andrew S. Tanembaum http://www.cs.vu.nl/~ast/books/mos2/
