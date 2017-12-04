@@ -9,6 +9,7 @@ Stuff for preparing for technical interviews
 - `palindrome.py`
 - `quicksort.py`
 - `tcpip.jpg`
+- `bst.jpg`
 
 # References and useful links
 
