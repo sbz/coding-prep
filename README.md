@@ -5,11 +5,12 @@ Stuff for preparing for technical interviews
 # Content
 
 - `binary_search.py`
+- `bst.py`
+- `bst.jpg`
 - `dyck.py`
 - `palindrome.py`
 - `quicksort.py`
 - `tcpip.jpg`
-- `bst.jpg`
 
 # References and useful links
 
