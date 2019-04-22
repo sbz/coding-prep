@@ -14,6 +14,17 @@ Stuff for preparing for technical interviews
 
 # References and useful links
 
+## Platforms Interview Questions
+
+* [Hacker Rank](https://www.hackerrank.com)
+* [Interview Bit](https://www.interviewbit.com)
+* [Interview Cake](https://www.interviewcake.com)
+* [Project Euler](https://projecteuler.net)
+* [Exercism](http://exercism.io)
+* [LeetCode](https://leetcode.com)
+* [Coderbyte](https://www.coderbyte.com)
+* [Geeks for Geeks](https://practice.geeksforgeeks.org)
+
 ## Algorithms
 
 * Data Structures for Interviews http://www.columbia.edu/~jxz2101/
