@@ -13,6 +13,7 @@ Stuff for preparing for technical interviews
 | [dupplicate.py](./dupplicate.py)       | Find dupplicate algorithm implementation         |
 | [dyck.py](./dyck.py)                   | Balanced Parenthesis algorithm implementation    |
 | [palindrome.py](./palindrome.py)       | Palindrome algorithm implementation              |
+| [largest.py](./largest.py)             | N largest algorithm implementation               |
 | [quicksort.py](./quicksort.py)         | Quicksort algorithm implementation               |
 | [tcpip.jpg](./tcpip.jpg)               | TCP/IP whiteboard                                |
 
