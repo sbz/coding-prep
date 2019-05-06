@@ -4,13 +4,17 @@ Stuff for preparing for technical interviews
 
 # Content
 
-- `binary_search.py`
-- `bst.py`
-- `bst.jpg`
-- `dyck.py`
-- `palindrome.py`
-- `quicksort.py`
-- `tcpip.jpg`
+|        File                            |            Description                           |
+| -------------------------------------- | ------------------------------------------------ |
+| [binary\_search.py](./binary_search.py)| Binary Search algorithm implementation           |
+| [bst.py](./bst.py)                     | Binary Search Tree algorithm implementation      |
+| [bst.jpg](./bst.jpg)                   | Binary Search Tree whiteboard                    |
+| [compress.py](./compress.py)           | Compress string algorithm implementation         |
+| [dupplicate.py](./dupplicate.py)       | Find dupplicate algorithm implementation         |
+| [dyck.py](./dyck.py)                   | Balanced Parenthesis algorithm implementation    |
+| [palindrome.py](./palindrome.py)       | Palindrome algorithm implementation              |
+| [quicksort.py](./quicksort.py)         | Quicksort algorithm implementation               |
+| [tcpip.jpg](./tcpip.jpg)               | TCP/IP whiteboard                                |
 
 # References and useful links
 
