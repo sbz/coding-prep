@@ -12,6 +12,7 @@ Stuff for preparing for technical interviews
 | [compress.py](./compress.py)           | Compress string algorithm implementation         |
 | [dupplicate.py](./dupplicate.py)       | Find dupplicate algorithm implementation         |
 | [dyck.py](./dyck.py)                   | Balanced Parenthesis algorithm implementation    |
+| [findpair.py](./findpair.py)           | Find pairs sum algorithm implementation          |
 | [matrix.py](./matrix.py)               | Sub matrix algorithm implementation              |
 | [palindrome.py](./palindrome.py)       | Palindrome algorithm implementation              |
 | [largest.py](./largest.py)             | N largest algorithm implementation               |
