@@ -50,6 +50,25 @@ def find_pairs_sum_itertools(array, s):
 
     return result
 
+def find_pairs_sum_alt(array, s):
+    """
+    Without using itertools. We add the complement (sum - n) in the array only
+    if it exists in the array. Very efficient!
+
+    Time O(n)
+    Space O(n)
+    """
+    result = []
+
+    if array is None:
+        return result
+
+    for n in array:
+        if (s - n) in array and n <= s - n:
+            result.append((n, s - n))
+
+    return result
+
 # Test
 
 import unittest
