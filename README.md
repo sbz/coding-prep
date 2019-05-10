@@ -10,6 +10,7 @@ Stuff for preparing for technical interviews
 | [bst.py](./bst.py)                     | Binary Search Tree algorithm implementation      |
 | [bst.jpg](./bst.jpg)                   | Binary Search Tree whiteboard                    |
 | [compress.py](./compress.py)           | Compress string algorithm implementation         |
+| [common\_number.py](./common_number.py)| Find common number algorithm implementation      |
 | [dupplicate.py](./dupplicate.py)       | Find dupplicate algorithm implementation         |
 | [dyck.py](./dyck.py)                   | Balanced Parenthesis algorithm implementation    |
 | [findpair.py](./findpair.py)           | Find pairs sum algorithm implementation          |
