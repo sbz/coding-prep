@@ -16,6 +16,7 @@ Stuff for preparing for technical interviews
 | [equal\_sum.py](./equal_sum.py)        | Equal sum array algorithm implementation         |
 | [findpair.py](./findpair.py)           | Find pairs sum algorithm implementation          |
 | [largest.py](./largest.py)             | N largest algorithm implementation               |
+| [lonley.py](./lonely.py)               | Find the single element algorithm implementation |
 | [matrix.py](./matrix.py)               | Sub matrix algorithm implementation              |
 | [palindrome.py](./palindrome.py)       | Palindrome algorithm implementation              |
 | [quicksort.py](./quicksort.py)         | Quicksort algorithm implementation               |
