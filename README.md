@@ -1,6 +1,6 @@
 # itw-prep
 
-Stuff for preparing for technical interviews
+Stuff for practicing interviews questions
 
 # Content
 
@@ -15,6 +15,7 @@ Stuff for preparing for technical interviews
 | [dyck.py](./dyck.py)                   | Balanced Parenthesis algorithm implementation    |
 | [equal\_sum.py](./equal_sum.py)        | Equal sum array algorithm implementation         |
 | [findpair.py](./findpair.py)           | Find pairs sum algorithm implementation          |
+| [goat\_latin.py](./goat_latin.py)      | Goat Latin algorithm implementation              |
 | [largest.py](./largest.py)             | N largest algorithm implementation               |
 | [lonley.py](./lonely.py)               | Find the single element algorithm implementation |
 | [matrix.py](./matrix.py)               | Sub matrix algorithm implementation              |
