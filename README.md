@@ -23,6 +23,7 @@ Stuff for practicing interviews questions
 | [quicksort.py](./quicksort.py)         | Quicksort algorithm implementation               |
 | [roman.py](./roman.py)                 | Roman numbers to decimal algorithm implementation|
 | [tcpip.jpg](./tcpip.jpg)               | TCP/IP whiteboard                                |
+| [valid\_ips.py](./valid_ips.py)        | Validate IP address algorithm implementation     |
 
 # References and useful links
 
