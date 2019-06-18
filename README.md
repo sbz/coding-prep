@@ -9,6 +9,7 @@ Stuff for practicing interviews questions
 | [binary\_search.py](./binary_search.py)| Binary Search algorithm implementation           |
 | [bst.py](./bst.py)                     | Binary Search Tree algorithm implementation      |
 | [bst.jpg](./bst.jpg)                   | Binary Search Tree whiteboard                    |
+| [coin\_change.py](./coin_change.py)    | Coin Change algorithm implementation             |
 | [compress.py](./compress.py)           | Compress string algorithm implementation         |
 | [common\_number.py](./common_number.py)| Find common number algorithm implementation      |
 | [dupplicate.py](./dupplicate.py)       | Find dupplicate algorithm implementation         |
