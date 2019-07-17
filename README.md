@@ -30,10 +30,10 @@ Stuff for practicing interviews questions
 
 ## Platforms Interview Questions
 
-* [Hacker Rank](https://www.hackerrank.com)
+* [Hacker Rank](https://www.hackerrank.com) [profile](https://www.hackerrank.com/sbrabez)
 * [Interview Bit](https://www.interviewbit.com)
 * [Interview Cake](https://www.interviewcake.com)
-* [Project Euler](https://projecteuler.net)
+* [Project Euler](https://projecteuler.net) [profile](https://projecteuler.net/profile/sbz.png)
 * [Exercism](http://exercism.io)
 * [LeetCode](https://leetcode.com)
 * [Coderbyte](https://www.coderbyte.com)
@@ -49,6 +49,7 @@ Stuff for practicing interviews questions
     * **Introduction to Algorithms** by Thomas H. Cormen and al. https://mitpress.mit.edu/books/introduction-algorithms
     * **The Algorithm Design Manual** by Steven S. Skiena http://www3.cs.stonybrook.edu/~skiena/
     * **Cracking The Code Interview** by Gale Laakmann McDowell http://www.crackingthecodinginterview.com/
+    * **Grokking Algorithms** by Aditya B. https://www.manning.com/books/grokking-algorithms
 * Visual
     * **Data Structures Visualizations** by David Galles https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
     * **VisuAlgo** by Steven Halim https://visualgo.net
@@ -63,3 +64,4 @@ Stuff for practicing interviews questions
     * **TCP/IP Illustrated** by W. Richard Stevens http://www.kohala.com/start/
     * **SRE Book** from Google https://landing.google.com/sre/book.html
     * **Designing Distributed Systems** by Brendan Burns http://shop.oreilly.com/product/0636920072768.do
+    * **Understanding Linux Kernel** by Daniel P. Bovet http://shop.oreilly.com/product/9780596005658.do
