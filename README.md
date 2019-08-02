@@ -1,30 +1,25 @@
 # itw-prep
 
-Stuff for practicing interviews questions
+Stuff for practicing algorithms questions
 
 # Content
 
 |        File                            |            Description                           |
 | -------------------------------------- | ------------------------------------------------ |
-| [binary\_search.py](./binary_search.py)| Binary Search algorithm implementation           |
+| [binary-search.py](./binary-search.py) | Binary Search algorithm implementation           |
 | [bst.py](./bst.py)                     | Binary Search Tree algorithm implementation      |
 | [bst.jpg](./bst.jpg)                   | Binary Search Tree whiteboard                    |
-| [coin\_change.py](./coin_change.py)    | Coin Change algorithm implementation             |
-| [compress.py](./compress.py)           | Compress string algorithm implementation         |
-| [common\_number.py](./common_number.py)| Find common number algorithm implementation      |
+| [common-number.py](./common-number.py) | Find common number algorithm implementation      |
 | [dupplicate.py](./dupplicate.py)       | Find dupplicate algorithm implementation         |
 | [dyck.py](./dyck.py)                   | Balanced Parenthesis algorithm implementation    |
-| [equal\_sum.py](./equal_sum.py)        | Equal sum array algorithm implementation         |
+| [equal-sum.py](./equal-sum.py)         | Equal sum array algorithm implementation         |
 | [findpair.py](./findpair.py)           | Find pairs sum algorithm implementation          |
-| [goat\_latin.py](./goat_latin.py)      | Goat Latin algorithm implementation              |
 | [largest.py](./largest.py)             | N largest algorithm implementation               |
-| [lonley.py](./lonely.py)               | Find the single element algorithm implementation |
 | [matrix.py](./matrix.py)               | Sub matrix algorithm implementation              |
 | [palindrome.py](./palindrome.py)       | Palindrome algorithm implementation              |
 | [quicksort.py](./quicksort.py)         | Quicksort algorithm implementation               |
 | [roman.py](./roman.py)                 | Roman numbers to decimal algorithm implementation|
 | [tcpip.jpg](./tcpip.jpg)               | TCP/IP whiteboard                                |
-| [valid\_ips.py](./valid_ips.py)        | Validate IP address algorithm implementation     |
 
 # References and useful links
 
