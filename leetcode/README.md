@@ -6,4 +6,5 @@
 | [compress.py](./compress.py)                       | Compress string algorithm implementation                |
 | [goat-latin.py](./goat-latin.py)                   | Goat Latin algorithm implementation                     |
 | [lonely.py](./lonely.py)                           | Find the single element algorithm implementation        |
+| [lru-cache.py](./lru-cache.py)                     | Least Recently Used Cache algorithm implementation      |
 | [valid-ips.py](./valid-ips.py)                     | Validate IP address algorithm implementation            |
