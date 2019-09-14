@@ -1,6 +1,7 @@
-# itw-prep
+# coding-prep
 
-Stuff for practicing algorithms questions
+Contains problems source code solutions and links for practicing algorithms
+questions. Most of them are implemented using Python at the moment
 
 # Content
 
@@ -23,7 +24,7 @@ Stuff for practicing algorithms questions
 
 # References and useful links
 
-## Platforms Interview Questions
+## Platforms Exercice Questions
 
 * [Hacker Rank](https://www.hackerrank.com) [profile](https://www.hackerrank.com/sbrabez)
 * [Interview Bit](https://www.interviewbit.com)
@@ -33,17 +34,20 @@ Stuff for practicing algorithms questions
 * [LeetCode](https://leetcode.com)
 * [Coderbyte](https://www.coderbyte.com)
 * [Geeks for Geeks](https://practice.geeksforgeeks.org)
+* [Daily Coding Problem](https://www.dailycodingproblem.com)
+* [Interviewing.io](https://www.interviewing.io)
+* [Pramp](https://www.pramp.com)
 
 ## Algorithms
 
 * Data Structures for Interviews http://www.columbia.edu/~jxz2101/
 * Interview Help https://github.com/adicu/interview_help/
-* Big-O Notation Cheat Sheet http://bigocheatsheet.com/
+* Big-O Notation Cheat Sheet https://bigocheatsheet.com
 * Books
     * **Algorithms** by Robert Sedgewick from Princeton https://algs4.cs.princeton.edu/home/
     * **Introduction to Algorithms** by Thomas H. Cormen and al. https://mitpress.mit.edu/books/introduction-algorithms
     * **The Algorithm Design Manual** by Steven S. Skiena http://www3.cs.stonybrook.edu/~skiena/
-    * **Cracking The Code Interview** by Gale Laakmann McDowell http://www.crackingthecodinginterview.com/
+    * **Cracking The Code Interview** by Gale Laakmann McDowell http://www.crackingthecodinginterview.com
     * **Grokking Algorithms** by Aditya B. https://www.manning.com/books/grokking-algorithms
 * Visual
     * **Data Structures Visualizations** by David Galles https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
