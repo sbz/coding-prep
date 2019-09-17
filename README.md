@@ -7,6 +7,7 @@ questions. Most of them are implemented using Python at the moment
 
 |        File                            |            Description                           |
 | -------------------------------------- | ------------------------------------------------ |
+| [binary-parts.py](./binary-parts.py)   | Binary partition algorithm implementation        |
 | [binary-search.py](./binary-search.py) | Binary Search algorithm implementation           |
 | [bst.py](./bst.py)                     | Binary Search Tree algorithm implementation      |
 | [bst.jpg](./bst.jpg)                   | Binary Search Tree whiteboard                    |
