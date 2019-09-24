@@ -19,6 +19,7 @@ questions. Most of them are implemented using Python at the moment
 | [largest.py](./largest.py)             | N largest algorithm implementation               |
 | [matrix.py](./matrix.py)               | Sub matrix algorithm implementation              |
 | [palindrome.py](./palindrome.py)       | Palindrome algorithm implementation              |
+| [pancakesort.py](./pancakesort.py)     | Pancakesort algorithm implementation             |
 | [quicksort.py](./quicksort.py)         | Quicksort algorithm implementation               |
 | [roman.py](./roman.py)                 | Roman numbers to decimal algorithm implementation|
 | [tcpip.jpg](./tcpip.jpg)               | TCP/IP whiteboard                                |
