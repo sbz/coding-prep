@@ -21,6 +21,8 @@ questions. Most of them are implemented using Python at the moment
 | [palindrome.py](./palindrome.py)       | Palindrome algorithm implementation              |
 | [pancakesort.py](./pancakesort.py)     | Pancakesort algorithm implementation             |
 | [quicksort.py](./quicksort.py)         | Quicksort algorithm implementation               |
+| [reverse.py](./reverse.py)             | Reverse string algorithm implementation          |
+| [reverse-words.py](./reverse-words.py) | Reverse words algorithm implementation           |
 | [roman.py](./roman.py)                 | Roman numbers to decimal algorithm implementation|
 | [tcpip.jpg](./tcpip.jpg)               | TCP/IP whiteboard                                |
 
