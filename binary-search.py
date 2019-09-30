@@ -55,6 +55,13 @@ def wrapper(func, *args, **kwargs):
     return wrapped
 
 
+def binary_search_std(array, value):
+    import bisect
+    index = bisect.bisect_left(array, value)
+    if index != len(array) and array[index] == value:
+        return index
+    return -1
+
 def main():
 
     array = [3, 5, 9, 10, 25, 50, 100]
@@ -75,6 +82,8 @@ def main():
     r = binary_search(array, 25)
     print(r, array[r])
     r = binary_search_r(array, 25, start, end)
+    print(r, array[r])
+    r = binary_search_std(array, 25)
     print(r, array[r])
 
     wrapped = wrapper(binary_search, array, 25)
