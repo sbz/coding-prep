@@ -17,6 +17,7 @@ questions. Most of them are implemented using Python at the moment
 | [equal-sum.py](./equal-sum.py)         | Equal sum array algorithm implementation         |
 | [findpair.py](./findpair.py)           | Find pairs sum algorithm implementation          |
 | [largest.py](./largest.py)             | N largest algorithm implementation               |
+| [ll-sum.py](./ll-sum.py)               | LinkedList reversed sum algorithm implementation |
 | [matrix.py](./matrix.py)               | Sub matrix algorithm implementation              |
 | [palindrome.py](./palindrome.py)       | Palindrome algorithm implementation              |
 | [pancakesort.py](./pancakesort.py)     | Pancakesort algorithm implementation             |
