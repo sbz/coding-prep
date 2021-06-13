@@ -42,6 +42,7 @@ questions. Most of them are implemented using Python at the moment
 * [Daily Coding Problem](https://www.dailycodingproblem.com)
 * [Interviewing.io](https://www.interviewing.io)
 * [Pramp](https://www.pramp.com)
+* [AlgoExpert](https://www.algoexpert.io)
 
 ## Algorithms
 
@@ -58,6 +59,7 @@ questions. Most of them are implemented using Python at the moment
     * **Data Structures Visualizations** by David Galles https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
     * **VisuAlgo** by Steven Halim https://visualgo.net
     * **Sorting Algorithms** by Carlo Zapponi https://www.sorting.at
+    * **Pathfinding Algorithms Visualizer** by Clement Mihailescu https://github.com/clementmihailescu/Pathfinding-Visualizer
 
 ## Systems
 
